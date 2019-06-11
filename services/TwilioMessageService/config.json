@@ -1,0 +1,12 @@
+{
+    "id": "5cfad0536eff46c8d5e58624",
+    "name": "TwilioMessageService",
+    "type": "twilio",
+    "config": {
+        "sid": "AC85cd186396f37ef7e2141c57eedbce3f"
+    },
+    "secret_config": {
+        "auth_token": "TwilioToken"
+    },
+    "version": 1
+}

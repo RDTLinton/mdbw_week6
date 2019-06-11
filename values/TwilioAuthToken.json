@@ -1,0 +1,6 @@
+{
+    "id": "5cfad0386eff46c8d5e5819c",
+    "name": "TwilioAuthToken",
+    "value": "TwilioToken",
+    "from_secret": true
+}

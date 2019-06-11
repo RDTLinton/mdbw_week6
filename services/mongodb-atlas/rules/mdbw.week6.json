@@ -1,0 +1,25 @@
+{
+    "id": "5cf804ffa6fe7beaa3d2bee9",
+    "database": "mdbw",
+    "collection": "week6",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            },
+            "owner_id": {
+                "bsonType": "string"
+            }
+        }
+    }
+}

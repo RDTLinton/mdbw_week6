@@ -1,0 +1,11 @@
+{
+    "id": "5cf804da8baa1b8ab71240a8",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Tajay-Cluster-001",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
